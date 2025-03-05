@@ -1,5 +1,5 @@
 {
-    "name": "contributte/messenger",
+    "name": "ulovdomov/messenger",
     "description": "Best Symfony Messenger for Nette framework",
     "keywords": [
         "nette",
@@ -11,7 +11,7 @@
     ],
     "type": "library",
     "license": "MIT",
-    "homepage": "https://github.com/contributte/messenger",
+    "homepage": "https://github.com/ulovdomov/messenger",
     "authors": [
         {
             "name": "Milan Felix Šulc",
@@ -21,7 +21,7 @@
     "require": {
         "ext-json": "*",
         "php": ">=8.0",
-        "nette/di": "^3.1.2",
+        "nette/di": "^3.0.14",
         "psr/container": "^2.0.2",
         "psr/cache": "^2.0.0 || ^3.0.0",
         "psr/log": "^2.0.0 || ^3.0.0",
